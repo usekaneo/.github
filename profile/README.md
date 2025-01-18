@@ -1,12 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/kaneo-app/app">
+    <img src="https://github.com/kaneo-app/app/raw/main/assets/logo.svg" alt="Kaneo logo" width="100" />
+  </a>
+</p>
+<h1 align="center">Kaneo</h1>
 
-<!--
+An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img src="https://github.com/kaneo-app/app/raw/main/assets/cover-image.png">
