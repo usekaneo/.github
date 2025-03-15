@@ -1,5 +1,5 @@
 <a href="https://github.com/kaneo-app/app">
-  <img src="./assets/readme-card.png">
+  <img src="https://assets.kaneo.app/readme-card.png">
 </a>
 
 <h3 align="center">
