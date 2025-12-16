@@ -3,7 +3,7 @@
 </a>
 
 <h3 align="center">
-  <b><a href="https://kaneo.app/docs">Quick Start</a></b>
+  <b><a href="https://kaneo.app/docs/core">Quick Start</a></b>
   |
   <b><a href="https://kaneo.app">Website</a></b> 
   |
